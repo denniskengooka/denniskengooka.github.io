@@ -28,21 +28,21 @@ He has authored more than 80 publications, including books and technical papers,
 ## Books
 
 **Building Secure Cars: Assuring the Automotive Software Development Lifecycle**  
-Wiley, 2021 — A comprehensive guide to incorporating cybersecurity practices into the automotive software development lifecycle, addressing common vulnerabilities, workflows, and technical solutions for improving automotive software security.  
+Wiley, 2021 — A comprehensive guide to incorporating cybersecurity practices into the automotive software development lifecycle, addressing common vulnerabilities, workflows, and technical solutions for improving automotive software security.<br>  
 📘 [Get the book on Amazon](https://www.amazon.com/Building-Secure-Cars-Automotive-Development/dp/111971074X/)
 
 **Building Secure Automotive IoT Applications: Developing Robust IoT Solutions for Next-Gen Automotive Software**  
-Packt Publishing, 2024 — Explores automotive IoT architecture, secure development processes, industry standards such as ISO/SAE 21434 and ASPICE cybersecurity, and practical guidance on designing and maintaining secure IoT-enabled automotive applications. 
-📘 [Get the book on Amazon](https://www.amazon.com/Building-Secure-Automotive-IoT-Applications/dp/1835465501)
+Packt Publishing, 2024 — Explores automotive IoT architecture, secure development processes, industry standards such as ISO/SAE 21434 and ASPICE cybersecurity, and practical guidance on designing and maintaining secure IoT-enabled automotive applications.<br>
+📘 [Get the book on Amazon](https://www.amazon.com/Building-Secure-Automotive-IoT-Applications/dp/1835465501)<br>
 📘 [View on Packt Publishing](https://www.packtpub.com/en-NL/product/building-secure-automotive-iot-applications-9781835465509)
 
 ---
 
 ## Selected Publications
 
-- Dennis Kengo Oka and Raja Sangili Vadamalu, *Navigating the Field of Automotive Cybersecurity Relevant Regulations*, Symposium on International Automotive Technology, 2026  
-- Dennis Kengo Oka and Raja Sangili Vadamalu, *Considerations for Vulnerability Management in the Automotive Industry*, Symposium on International Automotive Technology, 2026  
-- Dennis Kengo Oka and Philipp Jungklass, *Secure Boot in Automotive Real-Time Systems in Context of Post-Quantum Cryptography*, Cyber Security in CarS Workshop, 2025
+- Dennis Kengo Oka and Raja Sangili Vadamalu, *Navigating the Field of Automotive Cybersecurity Relevant Regulations*, Symposium on International Automotive Technology (SIAT), 2026  
+- Dennis Kengo Oka and Raja Sangili Vadamalu, *Considerations for Vulnerability Management in the Automotive Industry*, Symposium on International Automotive Technology (SIAT), 2026  
+- Dennis Kengo Oka and Philipp Jungklass, *Secure Boot in Automotive Real-Time Systems in Context of Post-Quantum Cryptography*, Cyber Security in CarS Workshop (CSCS), 2025
 
 For a comprehensive list of technical papers, journal articles, and conference proceedings, see profiles linked below.
 
@@ -50,17 +50,25 @@ For a comprehensive list of technical papers, journal articles, and conference p
 
 ## Selected Talks & Media
 
-- **Featured Interview:** [![*KnighTV EP21*](https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg)](https://youtu.be/xM8_456IZ0U) — Interview on automotive security and book insights.
-- **MySecTV Interview:** Analysis of automotive keyless entry system attacks.  
-- **CODE BLUE 2014:** Security assessment and trial of Tricore-powered automotive ECU.
+- **KnighTV EP21:**
+[![*KnighTV EP21*](https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg)](https://youtu.be/xM8_456IZ0U)
+Interview on automotive security and book insights.
+
+- **MySecTV Interview:**  
+[![*MySecTV Interview*](https://img.youtube.com/vi/Lc7PDJ4R4Dc/hqdefault.jpg)](https://youtu.be/Lc7PDJ4R4Dc)
+Analysis of automotive keyless entry system attacks.
+
+- **CODE BLUE 2014:**
+[![*CODE BLUE 2014*](https://img.youtube.com/vi/BVWF_TfIvyA/hqdefault.jpg)](https://youtu.be/BVWF_TfIvyA)
+ Security assessment and trial of Tricore-powered automotive ECU.
 
 ---
 
 ## Professional Links
 
-- 🔗 [**LinkedIn:**](https://www.linkedin.com/in/denniskengooka/)  
-- 🔗 [**ResearchGate:**](https://www.researchgate.net/profile/Dennis-Oka)  
-- 🔗 [**ORCID:**](https://orcid.org/0000-0003-2714-0882)  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/denniskengooka/)  
+- 🔗 [**ResearchGate**](https://www.researchgate.net/profile/Dennis-Oka)  
+- 🔗 [**ORCID**](https://orcid.org/0000-0003-2714-0882)  
 <!-- - 🔗 **Google Scholar:** https://scholar.google.com/citations?user=[your-id]  -->
 
 ---
