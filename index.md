@@ -1,5 +1,8 @@
 # Dr. Dennis Kengo Oka
 
+<img src="dennis_kengo_oka_face.jpg" width="200" style="border-radius:50%;">
+
+
 **Automotive Cybersecurity Expert**  
 
 Dr. Dennis Kengo Oka is an automotive cybersecurity strategist with more than 20 years of global experience in the automotive industry, focusing on secure software development and cybersecurity solutions for connected and software-defined vehicles.
@@ -50,17 +53,19 @@ For a comprehensive list of technical papers, journal articles, and conference p
 
 ## Selected Talks & Media
 
-- **KnighTV EP21:**
-[![*KnighTV EP21*](https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg)](https://youtu.be/xM8_456IZ0U)
-Interview on automotive security and book insights.
+**KnighTV EP21:**<br>
+[![*KnighTV EP21*](https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg)](https://youtu.be/xM8_456IZ0U)<br>
+Interview on automotive security and book insights.<br>
+<br>
 
-- **MySecTV Interview:**  
-[![*MySecTV Interview*](https://img.youtube.com/vi/Lc7PDJ4R4Dc/hqdefault.jpg)](https://youtu.be/Lc7PDJ4R4Dc)
-Analysis of automotive keyless entry system attacks.
+**MySecTV Interview:**<br>  
+[![*MySecTV Interview*](https://img.youtube.com/vi/Lc7PDJ4R4Dc/hqdefault.jpg)](https://youtu.be/Lc7PDJ4R4Dc)<br>
+Analysis of automotive keyless entry system attacks.<br>
+<br>
 
-- **CODE BLUE 2014:**
-[![*CODE BLUE 2014*](https://img.youtube.com/vi/BVWF_TfIvyA/hqdefault.jpg)](https://youtu.be/BVWF_TfIvyA)
- Security assessment and trial of Tricore-powered automotive ECU.
+**CODE BLUE 2014:**<br>
+[![*CODE BLUE 2014*](https://img.youtube.com/vi/BVWF_TfIvyA/hqdefault.jpg)](https://youtu.be/BVWF_TfIvyA)<br>
+Security assessment and trial of Tricore-powered automotive ECU.<br>
 
 ---
 
