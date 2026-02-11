@@ -2,15 +2,15 @@
 
 **Automotive Cybersecurity Expert**  
 
-Dr. Dennis Kengo Oka is an automotive cybersecurity strategist with more than 20 years of global experience in the automotive industry, focusing on secure software development and cybersecurity solutions for connected and software-defined vehicles.  :contentReference[oaicite:0]{index=0}
+Dr. Dennis Kengo Oka is an automotive cybersecurity strategist with more than 20 years of global experience in the automotive industry, focusing on secure software development and cybersecurity solutions for connected and software-defined vehicles.
 
 ---
 
 ## About
 
-Dr. Oka has worked on cybersecurity solutions across the automotive product lifecycle, including remote diagnostics and over-the-air updates, and has contributed to industry standards, testing frameworks, and engineering practices. He has held engineering leadership and advisory roles with major automotive companies and cybersecurity organizations globally and is a frequent speaker at international automotive and security conferences. :contentReference[oaicite:1]{index=1}
+Dr. Oka has worked on cybersecurity solutions across the automotive product lifecycle, including remote diagnostics and over-the-air updates, and has contributed to industry standards, testing frameworks, and engineering practices. He has held engineering leadership and advisory roles with major automotive companies and cybersecurity organizations globally and is a frequent speaker at international automotive and security conferences.
 
-He has authored more than 80 publications, including books and technical papers, and presents invited talks and panel discussions at numerous industry events. :contentReference[oaicite:2]{index=2}
+He has authored more than 80 publications, including books and technical papers, and presents invited talks and panel discussions at numerous industry events.
 
 ---
 
@@ -28,11 +28,12 @@ He has authored more than 80 publications, including books and technical papers,
 ## Books
 
 **Building Secure Cars: Assuring the Automotive Software Development Lifecycle**  
-Wiley, 2021 — A comprehensive guide to incorporating cybersecurity practices into the automotive software development lifecycle, addressing common vulnerabilities, workflows, and technical solutions for improving automotive software security. :contentReference[oaicite:3]{index=3}  
-📘 [Get the book on Amazon](https://www.amazon.com/)
+Wiley, 2021 — A comprehensive guide to incorporating cybersecurity practices into the automotive software development lifecycle, addressing common vulnerabilities, workflows, and technical solutions for improving automotive software security.  
+📘 [Get the book on Amazon](https://www.amazon.com/Building-Secure-Cars-Automotive-Development/dp/111971074X/)
 
 **Building Secure Automotive IoT Applications: Developing Robust IoT Solutions for Next-Gen Automotive Software**  
-Packt Publishing, 2024 — Explores automotive IoT architecture, secure development processes, industry standards such as ISO/SAE 21434 and ASPICE cybersecurity, and practical guidance on designing and maintaining secure IoT-enabled automotive applications. :contentReference[oaicite:4]{index=4}  
+Packt Publishing, 2024 — Explores automotive IoT architecture, secure development processes, industry standards such as ISO/SAE 21434 and ASPICE cybersecurity, and practical guidance on designing and maintaining secure IoT-enabled automotive applications. 
+📘 [Get the book on Amazon](https://www.amazon.com/Building-Secure-Automotive-IoT-Applications/dp/1835465501)
 📘 [View on Packt Publishing](https://www.packtpub.com/en-NL/product/building-secure-automotive-iot-applications-9781835465509)
 
 ---
@@ -49,17 +50,17 @@ For a comprehensive list of technical papers, journal articles, and conference p
 
 ## Selected Talks & Media
 
-- **Featured Interview:** *KnighTV EP21* — Interview on automotive security and book insights. :contentReference[oaicite:5]{index=5}  
-- **MySecTV Interview:** Analysis of automotive keyless entry system attacks. :contentReference[oaicite:6]{index=6}  
-- **CODE BLUE 2014:** Security assessment and trial of Tricore-powered automotive ECU. :contentReference[oaicite:7]{index=7}
+- **Featured Interview:** [![*KnighTV EP21*](https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg)](https://youtu.be/xM8_456IZ0U) — Interview on automotive security and book insights.
+- **MySecTV Interview:** Analysis of automotive keyless entry system attacks.  
+- **CODE BLUE 2014:** Security assessment and trial of Tricore-powered automotive ECU.
 
 ---
 
 ## Professional Links
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/denniskengooka/  
-- 🔗 **ResearchGate:** https://www.researchgate.net/profile/Dennis-Oka  
-- 🔗 **ORCID:** https://orcid.org/0000-0003-2714-0882  
+- 🔗 [**LinkedIn:**](https://www.linkedin.com/in/denniskengooka/)  
+- 🔗 [**ResearchGate:**](https://www.researchgate.net/profile/Dennis-Oka)  
+- 🔗 [**ORCID:**](https://orcid.org/0000-0003-2714-0882)  
 <!-- - 🔗 **Google Scholar:** https://scholar.google.com/citations?user=[your-id]  -->
 
 ---
