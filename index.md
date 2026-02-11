@@ -55,6 +55,9 @@ For a comprehensive list of technical papers, journal articles, and conference p
 
 **KnighTV EP21:**<br>
 [![*KnighTV EP21*](https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg)](https://youtu.be/xM8_456IZ0U)<br>
+<a href="https://youtu.be/xM8_456IZ0U">
+  <img src="https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg" width="300">
+</a><br>
 Interview on automotive security and book insights.<br>
 <br>
 
