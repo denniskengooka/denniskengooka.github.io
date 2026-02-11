@@ -54,7 +54,6 @@ For a comprehensive list of technical papers, journal articles, and conference p
 ## Selected Talks & Media
 
 **KnighTV EP21:**<br>
-[![*KnighTV EP21*](https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg)](https://youtu.be/xM8_456IZ0U)<br>
 <a href="https://youtu.be/xM8_456IZ0U">
   <img src="https://img.youtube.com/vi/xM8_456IZ0U/hqdefault.jpg" width="300">
 </a><br>
@@ -62,12 +61,16 @@ Interview on automotive security and book insights.<br>
 <br>
 
 **MySecTV Interview:**<br>  
-[![*MySecTV Interview*](https://img.youtube.com/vi/Lc7PDJ4R4Dc/hqdefault.jpg)](https://youtu.be/Lc7PDJ4R4Dc)<br>
+<a href="https://youtu.be/Lc7PDJ4R4Dc">
+  <img src="https://img.youtube.com/vi/Lc7PDJ4R4Dc/hqdefault.jpg" width="300">
+</a><br>
 Analysis of automotive keyless entry system attacks.<br>
 <br>
 
 **CODE BLUE 2014:**<br>
-[![*CODE BLUE 2014*](https://img.youtube.com/vi/BVWF_TfIvyA/hqdefault.jpg)](https://youtu.be/BVWF_TfIvyA)<br>
+<a href="https://youtu.be/BVWF_TfIvyA">
+  <img src="https://img.youtube.com/vi/BVWF_TfIvyA/hqdefault.jpg" width="300">
+</a><br>
 Security assessment and trial of Tricore-powered automotive ECU.<br>
 
 ---
