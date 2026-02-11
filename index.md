@@ -2,11 +2,11 @@
 
 <table>
   <tr>
-    <td width="220">
+    <td width="220" valign="top" style="border:none;">
       <img src="dennis_kengo_oka_face.jpg" width="200">
     </td>
-    <td>
-      <h1>**Automotive Cybersecurity Expert**</h1>
+    <td valign="top" style="border:none;">
+      <h1>Automotive Cybersecurity Expert</h1>
       <p>
         Dr. Dennis Kengo Oka is an automotive cybersecurity strategist with more than 20 years of global experience in the automotive industry, focusing on secure software development and cybersecurity solutions for connected and software-defined vehicles.
       </p>
