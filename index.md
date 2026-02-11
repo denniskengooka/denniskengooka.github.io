@@ -4,7 +4,7 @@
 <div style="display:flex; align-items:flex-start;">
   <img src="dennis_kengo_oka_face.jpg" width="200" style="margin-right:20px;">
   <div>
-    <h1 style="margin-top:0;">Automotive Cybersecurity Expert</h1>
+    <h2 style="margin-top:0;">Automotive Cybersecurity Expert</h2>
     <p>
         Dr. Dennis Kengo Oka is an automotive cybersecurity strategist with more than 20 years of global experience in the automotive industry, focusing on secure software development and cybersecurity solutions for connected and software-defined vehicles.
     </p>
